@@ -11,8 +11,8 @@ git commit -m "Update GitHub profile README"
 <!--
 **ThummalaBhargavi/ThummalaBhargavi** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img align="right" width="300px" alt="Coding Girl" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ## 👩‍💻 About Me
 
