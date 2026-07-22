@@ -1,70 +1,100 @@
-# About-me
-# 👋 Hi, I'm Thummala Bhargavi
+```html
+<div align="center">
 
-🎓 Computer Science Engineering graduate with a strong interest in software development, web technologies, and Artificial Intelligence.
+<h1>👋 Hi, I'm Thummala Bhargavi</h1>
 
-## 🚀 About Me
+<h3>Computer Science Engineering Graduate | Java Full Stack Developer | AI Enthusiast</h3>
 
-* 💻 Passionate about building practical and user-friendly applications.
-* 🌱 Currently expanding my skills in **Java Full Stack Development** and **AI**.
-* 🗄️ Strong foundation in **Java, MySQL, HTML, CSS, and JavaScript**.
-* 🤝 Enjoy solving problems, learning new technologies, and collaborating on projects.
-* 📚 Always curious about improving my programming and development skills.
-* 🎯 Goal: To become a skilled Full Stack Developer and contribute to impactful software solutions.
+<p>
+  Passionate about software development, web technologies, and Artificial Intelligence.
+</p>
 
-## 🛠️ Technical Skills
+<hr>
 
-**Languages**
+<h2>🚀 About Me</h2>
 
-* Java
-* JavaScript
-* SQL
+<p>💻 Passionate about building practical and user-friendly applications.</p>
 
-**Web Development**
+<p>🌱 Currently learning <b>Java Full Stack Development</b> and <b>Artificial Intelligence</b>.</p>
 
-* HTML5
-* CSS3
+<p>🗄️ Strong foundation in <b>Java, MySQL, HTML, CSS, JavaScript</b>.</p>
 
-**Database**
+<p>🤝 Love solving problems, learning new technologies, and collaborating on projects.</p>
 
-* MySQL
+<p>🎯 Goal: To become a skilled Full Stack Developer and contribute to impactful software solutions.</p>
 
-**Tools**
+<hr>
 
-* Git
-* GitHub
-* Visual Studio Code
-* Eclipse
+<h2>🛠️ Technical Skills</h2>
 
-## 📌 Projects
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Java • JavaScript • SQL</td>
+</tr>
 
-### 🎥 Text-to-Video Generation using AI
+<tr>
+<td><b>Web Development</b></td>
+<td>HTML5 • CSS3</td>
+</tr>
 
-Developed an AI-based application that converts text into engaging videos using Natural Language Processing and machine learning techniques.
+<tr>
+<td><b>Database</b></td>
+<td>MySQL</td>
+</tr>
 
-### 🧳 Raspberry Pi Tour Recommendation System
+<tr>
+<td><b>Tools</b></td>
+<td>Git • GitHub • VS Code • Eclipse</td>
+</tr>
 
-Built a tourism recommendation application integrating Raspberry Pi with software technologies to provide personalized travel suggestions.
+</table>
 
-## 🌟 Soft Skills
+<hr>
 
-* Communication
-* Teamwork
-* Problem Solving
-* Leadership
-* Time Management
-* Quick Learner
+<h2>📌 Projects</h2>
 
-## 📈 Currently Learning
+<h3>🎥 Text-to-Video Generation using AI</h3>
 
-* Java Full Stack Development
-* REST APIs
-* Spring Boot
-* Advanced SQL
-* Artificial Intelligence
+<p>
+Developed an AI-based application that converts text into engaging videos using Natural Language Processing (NLP) and Machine Learning.
+</p>
 
-## 📫 Connect with Me
+<h3>🧳 Raspberry Pi Tour Recommendation System</h3>
 
-Feel free to explore my repositories, contribute, or connect for collaboration.
+<p>
+Built a tourism recommendation system integrating Raspberry Pi with software technologies to provide personalized travel suggestions.
+</p>
 
-*"Code. Learn. Build. Improve. Repeat."* 🚀
+<hr>
+
+<h2>🌟 Soft Skills</h2>
+
+<p>
+Communication • Teamwork • Leadership • Problem Solving • Time Management • Quick Learner
+</p>
+
+<hr>
+
+<h2>📈 Currently Learning</h2>
+
+<p>
+Java Full Stack • Spring Boot • REST APIs • Advanced SQL • Artificial Intelligence
+</p>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> |
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
+<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+</p>
+
+<hr>
+
+<h3>💬 "Code. Learn. Build. Improve. Repeat." 🚀</h3>
+
+</div>
+```
