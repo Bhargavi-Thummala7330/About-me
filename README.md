@@ -34,7 +34,7 @@ I am a **Computer Science Engineering graduate** from **Presidency University, B
 * 👯 Looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL, Git, GitHub**
 * 📚 Always learning something new every day
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **[thummalabhargavi7330@gmail.com](mailto:your-email@example.com)**
 * ⚡ Fun Fact: I love solving coding challenges, learning new technologies, and building real-world projects.
 
 ---
@@ -101,8 +101,8 @@ I am a **Computer Science Engineering graduate** from **Presidency University, B
 
 ## 🌐 Connect with Me
 
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+* GitHub: https://github.com/
+* LinkedIn:(https://www.linkedin.com/in/thummala-bhargavi-331874256/?trk=PROFILE_DROP_DOWN)
 
 ---
 
