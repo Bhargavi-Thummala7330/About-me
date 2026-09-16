@@ -1,8 +1,6 @@
 
 
-*"Code. Learn. Build. Improve. Repeat."* 🚀
-git add README.md
-git commit -m "Update GitHub profile README"
+
 # Hi there 👋, I'm **Thummala Bhargavi**
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ThummalaBhargavi.ThummalaBhargavi)
